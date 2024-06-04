@@ -1,0 +1,14 @@
+.container {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+textarea{ margin-top: 2rem; font-size: 2rem; background-color: #e6e6e6; color: #000; }
+
+input:hover {
+  border-color: #396cd8;
+  color: #396cd8;
+  cursor: pointer;
+}
